@@ -1,0 +1,9 @@
+
+Instructions for building the project.
+
+Copy the Github link.
+Import project into AndroidStudio.
+Select sdk Flutter.
+In android virtual devices create a virtual device on the Android 8.1 platform. select it in AndroidStudio.
+Run the project.
+Test performance.

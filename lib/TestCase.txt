@@ -1,0 +1,7 @@
+
+Tested.
+
+1) The displayed text was tested.
+Input parameters: the text "Hey there".
+The expected result is: the text "Hey there".
+The test was successful.
