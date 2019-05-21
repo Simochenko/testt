@@ -1,16 +1,20 @@
 # testt
 
-A new Flutter application.
+Test task:
+1. Install Flutter
+2. Create a test application
+3. The application should: display the text "Hey there" in the middle of the screen and after tapping on the screen a background color should be changed to a random color. You can also add any other feature to the app - that adds bonus points
+4. Push code to a GitHub
+5. Send the link to a GitHub repository back
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Added extra features
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+1.backgroundColor: Colors.black, 
+2.leading: IconButton(menu, Notification Clicked, search),
+3.style: TextStyle(fontSize: 25, fontStyle: FontStyle.italic, fontWeight: FontWeight.w900),
+4.floatingActionButton(Home)
+5.bottomNavigationBar(people, menu, settings)
+6.persistentFooterButtons(photo, photo_filter)
+7.written and conducted test case
+8.written technical documentation
